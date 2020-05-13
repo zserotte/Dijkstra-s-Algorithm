@@ -1,0 +1,12 @@
+import java.io.FileNotFoundException;
+import java.util.HashMap;
+
+// Author: Zach Serotte
+
+public class Main {
+	public static void main(String[] args) throws FileNotFoundException {
+		Dijkstras dijkstras = new Dijkstras();
+		dijkstras.runShortestPathWithIO();
+		
+	}
+}
