@@ -1,0 +1,7 @@
+5
+     	Shep	  Cats	   Puppi	Dwar	 Rod
+Shep 	0		  10	   0		30		 100
+Cats  	0		  0 	   50		0		 0
+Puppi  	0		  0		   0		0		 10
+Dwar  	0		  0		   20		0		 60
+Rod  	0		  0		   0	    0		 0
